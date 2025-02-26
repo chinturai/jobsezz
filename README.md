@@ -1,8 +1,19 @@
-# React + Vite
+# 🚀 JobsEzz – Job Portal Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Features
 
-Currently, two official plugins are available:
+### 🔍 Seamless Job Search & Applications
+- Users can **browse job listings**, **apply directly**, and **track applications** efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 👥 Employer & Candidate Features
+- Employers can **post jobs**, **manage applications**, and **connect with potential hires**.
+- Candidates can **update profiles** and **receive job recommendations**.
+
+### 🛡️ Modern Tech & Security
+- Built with **React.js, Supabase, and Clerk**.
+- Ensures **fast performance, secure authentication, and a smooth user experience**.
+
+---
+
+💡 **Contributions are welcome!** Feel free to fork, raise issues, and submit PRs. 🚀
+
